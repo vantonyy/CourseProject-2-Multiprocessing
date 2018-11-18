@@ -1,0 +1,4 @@
+﻿  prog2.cpp
+c:\users\vantony\desktop\seua\course 2\advanced c++ (palyan)\courseproject2\project1\prog2.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project1.vcxproj -> C:\Users\vantony\Desktop\SEUA\Course 2\Advanced C++ (Palyan)\CourseProject2\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\vantony\Desktop\SEUA\Course 2\Advanced C++ (Palyan)\CourseProject2\Debug\Project1.pdb (Full PDB)

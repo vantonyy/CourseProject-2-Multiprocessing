@@ -1,0 +1,5 @@
+﻿  prog3.cpp
+c:\users\vantony\desktop\seua\course 2\advanced c++ (palyan)\courseproject2\project3\prog3.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\vantony\desktop\seua\course 2\advanced c++ (palyan)\courseproject2\project3\prog3.cpp(42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project3.vcxproj -> C:\Users\vantony\Desktop\SEUA\Course 2\Advanced C++ (Palyan)\CourseProject2\Debug\Project3.exe
+  Project3.vcxproj -> C:\Users\vantony\Desktop\SEUA\Course 2\Advanced C++ (Palyan)\CourseProject2\Debug\Project3.pdb (Full PDB)
